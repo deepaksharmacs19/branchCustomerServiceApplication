@@ -1,0 +1,9 @@
+{
+ "type": "module",
+ "dependencies": {
+  "csv": "^6.2.2",
+  "csv-parse": "^5.3.2",
+  "esm": "^3.2.25",
+  "fs": "^0.0.1-security"
+ }
+}
